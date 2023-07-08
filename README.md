@@ -44,7 +44,7 @@ REQUIRED SECTIONS:
 
 # 📖 Hello-React-Front-End <a name="about-project"></a>
 
-> The React  project that create front end react app.
+> The React  project that creates the front-end React app.
 
 **Hello-React-Front-End** is a...
 
@@ -116,7 +116,7 @@ To run the project, execute the following command:
 Run the following command to install all dependencies.
 
 $ bundle install
-$ code .
+$ code.
 
 <!-- AUTHORS -->
 
@@ -144,7 +144,7 @@ $ code .
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-CContributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/karam084/hello-react-front-end/issues).
 
